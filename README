@@ -6,3 +6,5 @@ It must include for revision 0:
 Done!
 we can load and save from/to disk!
 just need operations like insertion
+
+(and find, replace, ...)
